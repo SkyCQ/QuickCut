@@ -14,7 +14,7 @@ Quick Cut 开源的，你可以免费使用它，但正因为开源，因此插�
 
 - 仓库地址：[Gitee](https://gitee.com/haujet/QuickCut) 和 [GitHub](https://github.com/HaujetZhao/QuickCut) 
 - 发行版发布地址：[Gitee releases](https://gitee.com/haujet/QuickCut/releases) 和 [Github releases](https://github.com/HaujetZhao/QuickCut/releases) 
-- Win64 绿色版下载地址：https://wwe.lanzous.com/b015n2n5a 密码:f4t3
+- Win64 绿色版下载地址：https://wwe.lanzoux.com/b015n2n5a 密码:f4t3
 - Python pip 安装：`pip install Quick-Cut`
 
 > Quick Cut 是用 Python 写的，所以我将 Quick Cut 也发布在了 [pypi](https://pypi.org/project/Quick-Cut/) 库，只要你装了 python，使用 `pip install Quick-Cut` 就可以安装上 Quick Cut，不过 pypi 库中的版本没有自带 FFmpeg，需要你手动安装。（都会用 pip 安装东西了，相信安装  FFmpeg 就不用教了吧）
